@@ -24,6 +24,10 @@ void main()
     {
         printf("Grade F");
     }
+    else
+    {
+        printf("Recheck the entered mark!");
+    }
 
 }
 		
